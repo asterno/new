@@ -12,15 +12,15 @@ opacity: 0.9;
 }
 
 .modalCon{
-    background-color: #fefefe;
+    background-color: gray;
     margin: 15% auto;
 padding: 20px;
-border: 1px solid #888;
+border: 1px solid black;
 width: 80%;
 }
 
 .close{
-    color: #aaa;
+    color: gray;
     float: right;
     font-size: 28px;
     font-weight: bold;
